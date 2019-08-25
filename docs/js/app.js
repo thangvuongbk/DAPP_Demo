@@ -20,6 +20,7 @@ App = {
     } else {
       // Specify default instance if no web3 instance provided
       App.web3Provider = new Web3.providers.HttpProvider('http://localhost:7545');
+      //App.web3Provider = new Web3.providers.HttpProvider('https://ropsten.infura.io/v3/c567e6deb0c74854b5b0b83758d3f09a');
       web3 = new Web3(App.web3Provider);
     }
     return App.initContracts();
