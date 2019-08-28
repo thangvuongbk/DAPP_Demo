@@ -2,7 +2,7 @@
 //const MNEMONIC = 'EE755A0B796BE0992994FE197911624AD98B34A89A81CBEF4988E0569C440874';
 
 var PrivateKeyProvider = require("truffle-privatekey-provider");
-var privateKey = 'EE755A0B796BE0992994FE197911624AD98B34A89A81CBEF4988E0569C440874';
+var privateKey = 'F66101D0009C69590A650FB7C22E60B493F6E25BD95B7E5DBF11DFBA81A1D6C8';
 
 module.exports = {
   // See <http://truffleframework.com/docs/advanced/configuration>

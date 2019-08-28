@@ -3,7 +3,7 @@
 
 var PrivateKeyProvider = require("truffle-privatekey-provider");
 //var privateKey = 'EE755A0B796BE0992994FE197911624AD98B34A89A81CBEF4988E0569C440874';
-var privateKey = 'CE178AA3A3388AC49981E4AC8A99B4E703F596080483A47CD67AF2E5A0E70BE7';
+var privateKey = 'F66101D0009C69590A650FB7C22E60B493F6E25BD95B7E5DBF11DFBA81A1D6C8';
 
 module.exports = {
   // See <http://truffleframework.com/docs/advanced/configuration>
